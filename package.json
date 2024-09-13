@@ -1,0 +1,17 @@
+{
+  "name": "vincel",
+  "version": "1.0.0",
+  "description": "A streaming platform similar to Netflix.",
+  "main": "server/app.js",
+  "scripts": {
+    "start": "node server/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
